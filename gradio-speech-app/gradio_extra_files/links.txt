@@ -1,0 +1,6 @@
+# https://discuss.huggingface.co/t/how-to-serve-an-html-file/33921/2
+# https://www.gradio.app/guides/blocks-and-event-listeners
+
+
+# https://github.com/gradio-app/gradio/issues/1775
+# https://www.gradio.app/guides/real-time-speech-recognition
